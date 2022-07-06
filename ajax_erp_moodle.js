@@ -1,5 +1,5 @@
 
-
+/*
 
 // MUDANÃƒâ€¡A DA SETA
    $("#page-header .page-header-headings").hide();
@@ -27,7 +27,7 @@ function consultamatricula(){
  });
 }
 
-/*
+
 // PÃGINA DE LOGIN
 
 $(document).ready(function(){
@@ -75,7 +75,7 @@ if(pathname == '/'){*/
 
 
 }
- */ 
+  
     $('#region-main > div > div.row.justify-content-center > div > div > div > div > div > div:nth-child(1)').removeClass("col-md-5");
     
     $('#region-main > div > div.row.justify-content-center > div > div > div > div > div > div').addClass("col-md-12");
@@ -84,7 +84,7 @@ if(pathname == '/'){*/
     $('#region-main > div > div.row').addClass("flex-row-reverse");
     $('#region-main > div > div.row > div > div > div>h2').html('ACESSO AO AMBIENTE VIRTUAL DE APRENDIZAGEM - AVA');
     
-  
+ */ 
 
  
 // VERIFICA QUAL AVA ESTÃ OPRANDO
@@ -215,11 +215,6 @@ $( ".SuporteRmModal" ).each(function( index ) {
 });
 
 
-
-
-
-
-});
 
 
     
