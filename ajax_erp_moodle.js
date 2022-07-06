@@ -101,7 +101,7 @@ var surl = url.split('.');
 
 var ambiente  = surl[0].slice(8);
 
-//console.log(ambiente);
+console.log(ambiente);
 
 /*
 // ESCONDE LINK PARA BAIXAR O APLICATIVO
