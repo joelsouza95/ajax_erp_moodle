@@ -103,7 +103,7 @@ var ambiente  = surl[0].slice(8);
 
 //console.log(ambiente);
 
-
+/*
 // ESCONDE LINK PARA BAIXAR O APLICATIVO
 $("#page-footer > div > a").hide();
 
@@ -114,7 +114,7 @@ $(".modified").hide();
 // HEADER DA PAGE
 $("#page-header").addClass("animated fadeIn");
 //$("#region-main").addClass("animated fadeIn");
-
+*/
 
 //ACRESCENTA IMAGEM NA FRENTE DO HEADER
 /*$(".page-header-headings h1").prepend('<img src="https://erpead.fametro.edu.br/custom/svg/icone001.svg" class="svg-header" />');
@@ -229,11 +229,11 @@ $( ".SuporteRmModal" ).each(function( index ) {
 });
 
 
-    
+/*    
 // MUDANÃƒâ€¡A DA SETA$
 $(".larrow").html('<spam class="awe5"> <i class="fas fa-angle-double-left"></i></spam>');
 $(".rarrow").html('<spam class="awe5"> <i class="fas fa-angle-double-right"></i></spam>');
-
+*/
 
 function consultamatricula(){
  matricula = $('#matricula').val();
