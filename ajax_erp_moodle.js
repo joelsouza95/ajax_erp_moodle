@@ -1,5 +1,5 @@
 
-
+/*
 
 // MUDANÃƒâ€¡A DA SETA
    $("#page-header .page-header-headings").hide();
@@ -27,7 +27,7 @@ function consultamatricula(){
     }
  });
 }
-
+*/
 // PÃGINA DE LOGIN
 
 $(document).ready(function(){
