@@ -1,11 +1,12 @@
 
-/*
+
 
 // MUDANÃƒâ€¡A DA SETA
    $("#page-header .page-header-headings").hide();
 $(".larrow").html('<spam class="awe5"> <i class="fas fa-angle-double-left"></i></spam>');
 $(".rarrow").html('<spam class="awe5"> <i class="fas fa-angle-double-right"></i></spam>');
-*/
+
+
 function consultamatricula(){
  matricula = $('#matricula').val();
  
@@ -27,8 +28,6 @@ function consultamatricula(){
  });
 }
 
-/*
-
 // PÃGINA DE LOGIN
 
 $(document).ready(function(){
@@ -39,7 +38,7 @@ var pathname = window.location.pathname;
 
 //console.log(pathname);
 
-if(pathname == '/'){*/
+if(pathname == '/'){
 
 /*// insere no header da frontpage
      $.ajax({
@@ -72,11 +71,13 @@ if(pathname == '/'){*/
     }, error: function () {
     }
  });
- 
+ */
+
+
 
 
 }
- */   
+
     $('#region-main > div > div.row.justify-content-center > div > div > div > div > div > div:nth-child(1)').removeClass("col-md-5");
     
     $('#region-main > div > div.row.justify-content-center > div > div > div > div > div > div').addClass("col-md-12");
@@ -84,6 +85,11 @@ if(pathname == '/'){*/
     $('#region-main > div > div.row').removeClass("justify-content-center");
     $('#region-main > div > div.row').addClass("flex-row-reverse");
     $('#region-main > div > div.row > div > div > div>h2').html('ACESSO AO AMBIENTE VIRTUAL DE APRENDIZAGEM - AVA');
+    
+    
+
+
+
     
 
 
@@ -216,6 +222,11 @@ $( ".SuporteRmModal" ).each(function( index ) {
 });
 
 
+
+
+
+
+});
 
 
     
