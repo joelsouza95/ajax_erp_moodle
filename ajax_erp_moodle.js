@@ -29,7 +29,7 @@ function consultamatricula(){
 }
 */
 // PÃGINA DE LOGIN
-/*
+
 $(document).ready(function(){
 
 
@@ -39,7 +39,7 @@ var pathname = window.location.pathname;
 //console.log(pathname);
 
 if(pathname == '/'){
-
+/*
 // insere no header da frontpage
      $.ajax({
     url: 'https://erpead.fametro.edu.br/custom/frontheader.php',
