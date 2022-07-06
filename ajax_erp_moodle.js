@@ -9,7 +9,7 @@ $(".rarrow").html('<spam class="awe5"> <i class="fas fa-angle-double-right"></i>
 function consultamatricula(){
  matricula = $('#matricula').val();
  
-/* $.ajax({
+ $.ajax({
     url: 'blocks/fametroapresentacao/consulta_status.php',
     type: 'GET',
     data: {matricula: matricula},
@@ -27,6 +27,7 @@ function consultamatricula(){
  });
 }
 
+/*
 // PÃGINA DE LOGIN
 
 $(document).ready(function(){
@@ -73,10 +74,8 @@ if(pathname == '/'){*/
  
 
 
- */ 
-
 }
-
+ */ 
     $('#region-main > div > div.row.justify-content-center > div > div > div > div > div > div:nth-child(1)').removeClass("col-md-5");
     
     $('#region-main > div > div.row.justify-content-center > div > div > div > div > div > div').addClass("col-md-12");
