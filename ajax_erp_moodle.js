@@ -77,7 +77,7 @@ if(pathname == '/'){
 
 
 }
-
+/*
     $('#region-main > div > div.row.justify-content-center > div > div > div > div > div > div:nth-child(1)').removeClass("col-md-5");
     
     $('#region-main > div > div.row.justify-content-center > div > div > div > div > div > div').addClass("col-md-12");
@@ -87,7 +87,7 @@ if(pathname == '/'){
     $('#region-main > div > div.row > div > div > div>h2').html('ACESSO AO AMBIENTE VIRTUAL DE APRENDIZAGEM - AVA');
     
     
-
+*/
 
 
     
