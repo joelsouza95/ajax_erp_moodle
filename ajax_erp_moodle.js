@@ -1,11 +1,10 @@
 
-/*
+
 
 // MUDANÃƒâ€¡A DA SETA
    $("#page-header .page-header-headings").hide();
 $(".larrow").html('<spam class="awe5"> <i class="fas fa-angle-double-left"></i></spam>');
 $(".rarrow").html('<spam class="awe5"> <i class="fas fa-angle-double-right"></i></spam>');
-*/
 
 function consultamatricula(){
  matricula = $('#matricula').val();
@@ -88,11 +87,6 @@ if(pathname == '/'){*/
     
   
 
-
-
-    
-
-
  
 // VERIFICA QUAL AVA ESTÃ OPRANDO
 var url = window.location.href;
@@ -103,7 +97,7 @@ var ambiente  = surl[0].slice(8);
 
 //console.log(ambiente);
 
-/*
+
 // ESCONDE LINK PARA BAIXAR O APLICATIVO
 $("#page-footer > div > a").hide();
 
@@ -115,7 +109,7 @@ $(".modified").hide();
 $("#page-header").addClass("animated fadeIn");
 //$("#region-main").addClass("animated fadeIn");
 
-*/
+
 //ACRESCENTA IMAGEM NA FRENTE DO HEADER
 /*$(".page-header-headings h1").prepend('<img src="https://erpead.fametro.edu.br/custom/svg/icone001.svg" class="svg-header" />');
 
