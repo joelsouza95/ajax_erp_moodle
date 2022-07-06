@@ -1,11 +1,11 @@
 
-
+/*
 
 // MUDANÃƒâ€¡A DA SETA
    $("#page-header .page-header-headings").hide();
 $(".larrow").html('<spam class="awe5"> <i class="fas fa-angle-double-left"></i></spam>');
 $(".rarrow").html('<spam class="awe5"> <i class="fas fa-angle-double-right"></i></spam>');
-
+*/
 
 function consultamatricula(){
  matricula = $('#matricula').val();
