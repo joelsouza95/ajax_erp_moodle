@@ -29,7 +29,7 @@ function consultamatricula(){
 }
 */
 // PÃGINA DE LOGIN
-
+/*
 $(document).ready(function(){
 
 
@@ -40,7 +40,7 @@ var pathname = window.location.pathname;
 
 if(pathname == '/'){
 
-/*// insere no header da frontpage
+// insere no header da frontpage
      $.ajax({
     url: 'https://erpead.fametro.edu.br/custom/frontheader.php',
     type: 'POST',
@@ -71,13 +71,13 @@ if(pathname == '/'){
     }, error: function () {
     }
  });
- */
+ 
 
 
 
 
 }
-
+*/
     $('#region-main > div > div.row.justify-content-center > div > div > div > div > div > div:nth-child(1)').removeClass("col-md-5");
     
     $('#region-main > div > div.row.justify-content-center > div > div > div > div > div > div').addClass("col-md-12");
