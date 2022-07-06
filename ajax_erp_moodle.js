@@ -74,7 +74,7 @@ if(pathname == '/'){*/
  
 
 
-
+ */ 
 
 }
 
@@ -86,7 +86,7 @@ if(pathname == '/'){*/
     $('#region-main > div > div.row').addClass("flex-row-reverse");
     $('#region-main > div > div.row > div > div > div>h2').html('ACESSO AO AMBIENTE VIRTUAL DE APRENDIZAGEM - AVA');
     
- */   
+  
 
 
 
