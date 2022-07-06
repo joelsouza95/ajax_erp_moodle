@@ -10,7 +10,7 @@ $(".rarrow").html('<spam class="awe5"> <i class="fas fa-angle-double-right"></i>
 function consultamatricula(){
  matricula = $('#matricula').val();
  
- $.ajax({
+/* $.ajax({
     url: 'blocks/fametroapresentacao/consulta_status.php',
     type: 'GET',
     data: {matricula: matricula},
@@ -38,7 +38,7 @@ var pathname = window.location.pathname;
 
 //console.log(pathname);
 
-if(pathname == '/'){
+if(pathname == '/'){*/
 
 /*// insere no header da frontpage
      $.ajax({
@@ -71,7 +71,7 @@ if(pathname == '/'){
     }, error: function () {
     }
  });
- */
+ 
 
 
 
@@ -86,7 +86,7 @@ if(pathname == '/'){
     $('#region-main > div > div.row').addClass("flex-row-reverse");
     $('#region-main > div > div.row > div > div > div>h2').html('ACESSO AO AMBIENTE VIRTUAL DE APRENDIZAGEM - AVA');
     
-    
+ */   
 
 
 
@@ -103,7 +103,7 @@ var ambiente  = surl[0].slice(8);
 
 //console.log(ambiente);
 
-
+/*
 // ESCONDE LINK PARA BAIXAR O APLICATIVO
 $("#page-footer > div > a").hide();
 
@@ -115,7 +115,7 @@ $(".modified").hide();
 $("#page-header").addClass("animated fadeIn");
 //$("#region-main").addClass("animated fadeIn");
 
-
+*/
 //ACRESCENTA IMAGEM NA FRENTE DO HEADER
 /*$(".page-header-headings h1").prepend('<img src="https://erpead.fametro.edu.br/custom/svg/icone001.svg" class="svg-header" />');
 
