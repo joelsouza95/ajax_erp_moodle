@@ -72,12 +72,12 @@ if(pathname == '/'){
     }
  });
  
-
+*/
 
 
 
 }
-*/
+
     $('#region-main > div > div.row.justify-content-center > div > div > div > div > div > div:nth-child(1)').removeClass("col-md-5");
     
     $('#region-main > div > div.row.justify-content-center > div > div > div > div > div > div').addClass("col-md-12");
