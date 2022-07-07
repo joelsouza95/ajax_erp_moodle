@@ -6,7 +6,7 @@
 $(".larrow").html('<spam class="awe5"> <i class="fas fa-angle-double-left"></i></spam>');
 $(".rarrow").html('<spam class="awe5"> <i class="fas fa-angle-double-right"></i></spam>');
 
-
+*/
 function consultamatricula(){
  matricula = $('#matricula').val();
  
@@ -27,7 +27,7 @@ function consultamatricula(){
     }
  });
 }
-*/
+
 // PÃGINA DE LOGIN
 
 $(document).ready(function(){
