@@ -1,12 +1,8 @@
-
 /*
-
 // MUDANÃƒâ€¡A DA SETA
    $("#page-header .page-header-headings").hide();
 $(".larrow").html('<spam class="awe5"> <i class="fas fa-angle-double-left"></i></spam>');
 $(".rarrow").html('<spam class="awe5"> <i class="fas fa-angle-double-right"></i></spam>');
-
-*/
 function consultamatricula(){
  matricula = $('#matricula').val();
  
@@ -21,13 +17,12 @@ function consultamatricula(){
         //console.log(response);
         
         //$('#formulario_consulta').hide();
-
     }, error: function () {
         alert('Digitar apenas os nÃºmeros da matrÃ­cula!');
     }
  });
 }
-
+*/
 // PÃGINA DE LOGIN
 
 $(document).ready(function(){
@@ -46,7 +41,6 @@ if(pathname == '/'){
     type: 'POST',
     crossDomain : true,
     success: function (response) {
-
         $("#page-header > div > div > div").html(response);
      
         console.log(response);
@@ -54,9 +48,6 @@ if(pathname == '/'){
     }
  });
  
-
-
-
 // insere no header da frontpage
      $.ajax({
      url: 'https://erpead.fametro.edu.br/custom/conteudo.php',
@@ -65,7 +56,6 @@ if(pathname == '/'){
     success: function (response) {
        $("#page-site-index #region-main ").empty();
         $("#page-site-index #region-main ").html(response);
-
         $("#page-site-index #region-main ").show();
         //console.log(response);
     }, error: function () {
@@ -77,7 +67,7 @@ if(pathname == '/'){
 
 
 }
-/**/
+/*
     $('#region-main > div > div.row.justify-content-center > div > div > div > div > div > div:nth-child(1)').removeClass("col-md-5");
     
     $('#region-main > div > div.row.justify-content-center > div > div > div > div > div > div').addClass("col-md-12");
@@ -87,7 +77,7 @@ if(pathname == '/'){
     $('#region-main > div > div.row > div > div > div>h2').html('ACESSO AO AMBIENTE VIRTUAL DE APRENDIZAGEM - AVA');
     
     
-
+*/
 
 
     
@@ -118,8 +108,6 @@ $("#page-header").addClass("animated fadeIn");
 
 //ACRESCENTA IMAGEM NA FRENTE DO HEADER
 /*$(".page-header-headings h1").prepend('<img src="https://erpead.fametro.edu.br/custom/svg/icone001.svg" class="svg-header" />');
-
-
 if ($('h2:first-of-type').text().indexOf('Videoaula') != -1 || $('h2:first-of-type').text().indexOf('VIDEOAULA') != -1){
 $("h2:first-of-type").prepend('<img src="https://erpead.fametro.edu.br/custom/svg/2332749-online-education/2332749-online-education/svg/105-video.svg" class="svg-header-h2" />');
 }*/
@@ -258,6 +246,3 @@ function consultamatricula(){
 
 
 }
-
-
- 
