@@ -1,0 +1,36 @@
+<?php
+require_once 'vendor/autoload.php';
+
+use YtDlp\YtDlp;
+
+if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+    $video_url = $_POST['video_url'];
+
+    try {
+        $ytDlp = new YtDlp($video_url);
+        $video_info = $ytDlp->getInfo();
+
+        if (!empty($video_info)) {
+            echo "The video's quality is " . $video_info['quality'] . " and its file format is " . $video_info['ext'] . ".";
+        } else {
+            echo "There was a problem fetching the video information.";
+        }
+    } catch (Exception $e) {
+        echo "There was a problem fetching the video information: " . $e->getMessage();
+    }
+}
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>YouTube Video Quality Analyzer</title>
+</head>
+<body>
+    <form method="post">
+        <label for="video_url">Enter the YouTube video URL:</label>
+        <input type="text" name="video_url" id="video_url" required>
+        <button type="submit">Analyze</button>
+    </form>
+</body>
+</html>
