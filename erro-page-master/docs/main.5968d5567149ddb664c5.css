@@ -90,6 +90,7 @@ main {
     filter: drop-shadow(2px 4px 15px black);
     background-color: #00000033;
     padding: 10px;
+    border-radius: 15px;
 }
 
 .message strong {
