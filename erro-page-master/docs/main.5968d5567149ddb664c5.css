@@ -85,7 +85,7 @@ main {
     flex-direction: column;
     align-items: center;
     letter-spacing: 1px;
-    z-index: 2
+    z-index: 2;
     /*novo*/
     filter: drop-shadow(2px 4px 15px black);
     background-color: #00000033;
