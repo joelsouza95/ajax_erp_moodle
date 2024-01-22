@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css2?family=Space+Mono:ital@0;1&display=swap);
-
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 :root {
     --white: #fff;
     --button: #ffcb39
@@ -12,10 +12,10 @@
 }
 
 body {
-    background: url(imgs/overlay_stars.3e7fd575d359a0f17a972a2914e49c33.svg) left top repeat, linear-gradient(to right bottom, #a9347e, #4b32a7);
+    background: url(imgs/overlay_stars.3e7fd575d359a0f17a972a2914e49c33.svg) left top repeat, linear-gradient(to right bottom, #1d3557, #457b9d, #e63946);
     background-size: 400px, auto;
     color: var(--white);
-    font-family: Space Mono, monospace;
+    font-family: 'Barlow', sans-serif;
     height: 100vh;
     width: 100vw
 }
