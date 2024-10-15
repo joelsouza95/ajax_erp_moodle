@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+font-family: barlow !important;
+}
+
+@media (min-width: 768px){
+.pagelayout-standard #page.drawers .main-inner, body.limitedwidth #page.drawers .main-inner {
+    max-width: 1000px;
+}}
+
+@media (min-width: 768px){
+.login-container {
+    max-width: 400px;
+}
+}
+
+button#loginbtn {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.login-container .login-divider {
+    display: none;
+}
+
+
+div.loginform>div.d-flex{
+    display: none !important;
+}
+
+.login-form-forgotpassword{
+    display: none;
+}
+
+.login-container {
+    background-color: #ffffffab;
+}
+
+a[href*="/?redirect=0"]{
+ Display: none !important;
+}
+
+/*______________________________________Slideshow______________________________________*/
+
+.slick-prev:before, .slick-next:before {
+    color: #0042ae !important;
+}
+
+.slick-dots li button {
+    border-radius: 100%;
+}
+
+.slick-prev, .slick-next {
+    z-index: 3 !important;
+    width: 35px;
+    height: 100%;
+}
+
+.slick-prev {
+    left:0px !important;
+}
+
+.slick-next{
+    right:0px !important;
+}
+
+/*---------------------------Caixa de seleção Cohort-------------------------------------*/
+select#id_config_cohorts {
+    height: 300px;
+}
+
+
+/*---------------------------Botões do Ava-------------------------------------*/
+a {
+    color: #337cbb;
+}
+
+.drawer-toggles .drawer-toggler .btn {
+background-color: #dd0000;
+color:#fff;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #337cbb;
+    border-color: #337cbb;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #337cbbd9;
+    border-color: #337cbbd9;
+}
+
+/*---------------------------Fullscreen Atto-----------------------------*/
+.editor_atto_wrap {
+    position: relative;
+    z-index: 1029;
+}
+
+/*---------------------------Time do Quiz-------------------------------------*/
+#quiz-timer-wrapper {
+/*    position: inherit;
+    font-size: larger;*/
+top: 0px ;
+}
+
+/*-----------------------------Rodapé ------------------------------*/
+a[href^="https://docs.moodle.org/400/pt_br/admin/user"]{
+ Display: none !important;
+}
+
+/*jandeir*/
+/*---------------------------------Esconde menu de atividade e recursos-------------------------------*/
+div.sitetopic>ul.topics>li#section-1>div#coursecontentcollapse1>ul.section {
+display:none!important;
+visible:hidden;
+}
+
+/*---------------------------Vlibras Lado Esquerdo---------------------------*/
+[vw] [vw-plugin-wrapper].active {
+    right: revert !important;
+}
+
+div[vw] {
+    right: revert !important;
+}
+
+/*______________________________________Bloco de Políticas______________________________________*/
+.card.cardpolitica {
+    display: none;
+}
+
+/*___________________________Bloco de Progressão do Aluno___________________________*/
+.block_completion_progress .progressBarCell.futureNotCompleted {
+    background-color: #ced4da !important;
+    border: solid 1.5px white;
+}
+
+.block_completion_progress .progressBarCell.completed {
+    background-color: #73A839;
+    border: solid 1.5px white;
+}
+
+/*------------------------calendario-----------------------jandeir*/
+
+.maincalendar .calendarmonth td.today .day-number-circle {
+    background-color: #dd0000  !important;
+}
+
+a.arrow_link.previous, a.arrow_link.next {
+    color: #dd0000  !important;
+}
+
+section:not(#region-main) .block.block_calendar_month .maincalendar .calendartable.calendarmonth td.hasevent .day-number:before {
+        color:#dd0000 !important;
+    }
+
+.maincalendar .calendarmonth ul li .calendar-circle.calendar_event_course {
+    background-color: #dd0000 !important;
+    border: 0px solid #d34600 !important;
+}
+
+@media (max-width: 768px) {
+    .maincalendar .calendartable.calendarmonth td.hasevent .day-number:before {
+        color: #dd0000 !important;
+    }
+}
+
+/*___________________________Botão do Menu___________________________*/
+.navbar.fixed-top {
+    border-bottom: #dd0000 2px solid !important;
+}
+
+.moremenu .nav-link.active {
+    border-bottom-color: #337cbb;
+}
+
+.moremenu .nav-link.active:hover {
+    border-bottom-color: #dd0000;
+}
+
+/*___________________________Supporter___________________________*/
+.row-fluid {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.btn-group>.btn:not(:last-child):not(.dropdown-toggle), .btn-group>.btn-group:not(:last-child)>.btn {
+    background-color: #d9dbe4;
+}
+
+/*______________________________________Bloco dos Cursos______________________________________*/
+div#overlay {
+    z-index: 0 !important;
+}
+
+.format-tiles .course-content ul.tiles .tile.phototile .photo-tile-text h3 {
+    background-color: #ffffffb0 !important;
+} 
+
+.format-tiles .course-content ul.tiles .tile.phototile .photo-tile-text h3 {
+    text-shadow: 0 0 0.5px #535353 !important;
+    color: #535353 !important;
+}
+
+.format-tiles ul.tiles .tile .tile-text {
+    height: 40px !important;
+}
+
+.format-tiles .course-content ul.tiles .tile, .format-tiles .course-content ul.tiles .tile_bar, .format-tiles .course-content ul.tiles .tile.phototile {
+    height: 140px !important;
+    border-radius: 5px !important;
+}
+
+.format-tiles li.activity.subtile {
+    height: 160px;
+}
+
+.format-tiles li.activity.subtile .activitytitle a {
+    background-image:none
+}
+
+@media screen and (max-width: 600px){
+   .format-tiles .course-content ul.tiles .tile:not(.spacer) {
+       min-height: 140px  !important;
+       border-radius: 5px !important;
+}
+}
+
+@media screen and (max-width: 600px){
+   .format-tiles ul.tiles .tile h3 {
+       font-size: 0.9em !important;
+}
+}
+
+/*______________________________________Bloco internos do Bloco______________________________________*/
+li.activity.subtile {
+    border-radius: 10px;
+}
+
+.format-tiles li.activity.subtile {
+    border-top-color: #4b1c83 !important;
+}
+.format-tiles li.activity.subtile:hover {
+    border-top-color: #db0a84 !important;
+    transition: border-top-color 0.3s !important
+}
