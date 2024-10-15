@@ -1,0 +1,143 @@
+::Questão 01::[html]<p><strong></strong>
+Conforme se observa da Lei 8213, de 1991, é imprescindível comprovar a qualidade de segurado e o requisito da carência para requerer algum benefício previdenciário.<br>
+Fonte: ALENCAR, Hermes Arrais. Manual de Direito Previdenciário. São Paulo: SaraivaJur, 2024.<br></p>
+<p>
+A partir das informações apresentadas e de seu conhecimento, julgue as afirmativas a seguir em (V) Verdadeiras ou (F) Falsas.<br>
+(  )   A partir da publicação da Reforma da Previdência de 2019, nos meses em que for recolhido sobre base de cálculo inferior a um salário mínimo não serão considerados para efeito de carência.<br>
+(  )  Um segurado contratado como empregado, após demitido sem justa causa, permanecerá atrelado à Previdência, mesmo sem contribuir, somente pelos próximos 10 meses (período de graça).<br>
+(  ) Como regra, faz jus a aposentadoria por incapacidade permanente o segurado que mantenha a sua qualidade de segurado e cumpra o requisito da carência de 12 contribuições.<br>
+(  ) De acordo  com art. 24 da Lei 8213 de 1991, um dia de trabalho no mês vale como contribuição (carência) para todo aquele mês, para qualquer categoria de segurado obrigatório.<br><br>
+Assinale a alternativa que apresenta a sequência CORRETA.</p>{
+=<p>V – F – V – V</p>
+~<p>V – V – F – F</p>
+~<p>V – F – V – F</p>
+~<p>F – F – V – V</p>
+~<p>V – V – V – F</p>
+}
+
+::Questão 02::[html]<p><strong></strong>
+Conforme o art. 18, § 1º, da Lei n. 8.213/91, não tem direito ao benefício auxílio-acidente: contribuinte individual e o segurado facultativo.
+<br>
+Fonte: ALENCAR, Hermes Arrais. Manual de Direito Previdenciário. São Paulo: SaraivaJur, 2024.
+<br><br>
+O segurado parcial e definitivamente incapacitado ao trabalho deve requerer o benefício:</p>{
+=<p>Auxílio-acidente</p>
+~<p>Aposentadoria por invalidez.</p>
+~<p>Auxílio por incapacidade temporária</p>
+~<p>Aposentadoria por incapacidade permanente</p>
+~<p>Auxílio-doença</p>
+}
+
+::Questão 03::[html]<p><strong></strong>
+Conforme o art. 18, § 1º, da Lei n. 8.213/91, não tem direito ao benefício auxílio-acidente: contribuinte individual e o segurado facultativo.
+<br>
+Fonte: ALENCAR, Hermes Arrais. Manual de Direito Previdenciário. São Paulo: SaraivaJur, 2024.
+<br><br>
+Na forma do art. 86 da Lei 8213, de 1991, o segurado parcial e definitivamente incapacitado ao trabalho deve requerer o benefício:</p>{
+=<p>Auxílio-acidente</p>
+~<p>Aposentadoria por invalidez.</p>
+~<p>Auxílio por incapacidade temporária</p>
+~<p>Aposentadoria por incapacidade permanente</p>
+~<p>Auxílio-doença</p>
+}
+
+::Questão 04::[html]<p><strong></strong>
+A Lei 8213, determina que o segurado em gozo de auxílio por incapacidade temporária, auxílio-acidente ou aposentadoria por incapacidade permanente, estão obrigados, sob pena de suspensão do benefício, a submeter-se a exame médico a cargo da Previdência Social.</p>
+<p><br>Fonte: ALENCAR, Hermes Arrais. Manual de Direito Previdenciário. São Paulo: SaraivaJur, 2024.</p>
+<br><br>O segurado recebendo o benefício de auxílio-doença ou de auxílio-acidente fica obrigado à submissão à perícia médica periódica até qual idade?
+</p>{
+=<p>O segurado em gozo de auxílio-doença ou de auxílio-acidente, está obrigado, independentemente de sua idade e sob pena de suspensão do benefício, a submeter-se a exame médico a cargo da Perícia Médica.</p>
+~<p>O segurado em gozo de auxílio-doença ou de auxílio-acidente, está obrigado até os 62 anos de idade, a submeter-se a exame médico a cargo da Perícia Médica.</p>
+~<p>O segurado em gozo de auxílio-doença ou de auxílio-acidente, está obrigado até os 57 anos de idade e sob pena de suspensão do benefício, a submeter-se a exame médico a cargo da Perícia Médica.</p>
+~<p>O segurado em gozo de auxílio-doença ou de auxílio-acidente, está obrigado até os 70 anos de idade, a submeter-se a exame médico a cargo da Perícia Médica.</p>
+~<p>O segurado em gozo de auxílio-doença está obrigado até os 57 anos de idade, se mulher, 60 anos, se homem, a submeter-se a exame médico a cargo da Perícia Médica, porém o beneficiário de auxílio-acidente, está obrigado independentemente de sua idade e sob pena de suspensão do benefício.</p>
+}
+
+::Questão 05::[html]<p><strong></strong>O segurado em gozo de aposentadoria por incapacidade permanente é proibido de exercer atividade remunerada, se o INSS descobrir que o aposentado está trabalhando terá sua aposentadoria automaticamente cancelada (art. 46 da Lei 8213).<br>
+Fonte: ALENCAR, Hermes Arrais. Manual de Direito Previdenciário. São Paulo: SaraivaJur, 2024.<br>
+A partir das informações apresentadas e de seu conhecimento, julgue as afirmativas a seguir em (V) Verdadeiras ou (F) Falsas.<br>
+<br>(  ) Por regra, a doença preexistente não autoriza a concessão de auxílio-doença nem aposentadoria por incapacidade permanente ao segurado quando, ao filiar-se no RGPS, já era portador da doença ou da lesão que geraria o benefício.
+<br>(  ) Se a agencia do INSS onde se filiou o segurado estiver localizada a mais de 50KM da sede de Vara Federal, é admitida a competência delegada, permitindo à Justiça Estadual tramitar a ação em todas as instâncias.
+<br>(  ) A exceção quando a pessoa possuir doença ou lesão preexistente mas não for incapacitante, é que ela poderá se filiar ao RGPS, e caso aquela doença que não era incapacitante progrida e torne o segurado incapaz, haverá direito à cobertura previdenciária.
+<br>(  ) Os benefícios por incapacidade estritamente previdenciários no âmbito judicial será competente a Justiça Federal Comum apreciar ações contra a Autarquia Previdenciária Federal, INSS.
+<br><br>Assinale a alternativa que apresenta a sequência CORRETA.
+</p>{
+=<p>V – F – V – V</p>
+~<p>V – V – F – F</p>
+~<p>F – F – V – V</p>
+~<p>V – F – V – F</p>
+~<p>V – V – V – F</p>
+}
+
+::Questão 06::[html]<p>O segurado em gozo de aposentadoria por incapacidade permanente é proibido de exercer atividade remunerada, se o INSS descobrir que o aposentado está trabalhando terá sua aposentadoria automaticamente cancelada (art. 46 da Lei 8213).
+<br>Fonte: ALENCAR, Hermes Arrais. Manual de Direito Previdenciário. São Paulo: SaraivaJur, 2024.
+<br>A partir das informações apresentadas, analise as afirmativas a seguir:
+<br>I. O aposentado por invalidez estará dispensado do exame médico periódico de constatação de permanência da incapacidade quando tiver no mínimo 55 anos de idade e já ter usufruído benefício por incapacidade por pelo menos 15 anos.
+<br>II. Aposentadoria por incapacidade permanente será de 60% do salário-de-benefício, quando decorrer de acidente de trabalho, de doença profissional e de doença do trabalho.
+<br>III. Atualmente o auxílio-doença é de 91% do salário-de-benefício e segurado em gozo dele fica obrigado à submissão à perícia periódica mesmo após o implemento dos 60 anos de idade.
+<br>IV. O auxílio-doença é concedido como indenização (natureza indenizatória), justamente para compensar o maior esforço que terá de fazer para continuar trabalhando.
+<br><br>  
+Considerando o contexto apresentado, é correto o que se afirma em:
+</p>{
+=<p>I e III, apenas</p>
+~<p>II e IV, apenas</p>
+~<p>I, II e III, apenas</p>
+~<p>I, II e IV, apenas</p>
+~<p>I, II, III e IV</p>
+}
+
+::Questão 07::[html]<p>Com relação ao requisito da carência, considera-se presumido o recolhimento das contribuições do segurado nas categorias: empregado; empregado doméstico e do trabalhador avulso desde a data da filiação.
+<br>Fonte: ALENCAR, Hermes Arrais. Manual de Direito Previdenciário. São Paulo: SaraivaJur, 2024.
+<br><br>A concessão das prestações pecuniárias do RGPS depende de 12 (doze) meses de período de carência para quais benefícios?
+</p>{
+=<p>Auxílio por incapacidade temporária e Aposentadoria por incapacidade permanente</p>
+~<p>Aposentadoria especial e Aposentadoria por incapacidade permanente</p>
+~<p>Salário-maternidade e Auxílio por incapacidade temporária</p>
+~<p>Auxílio-reclusão e Auxílio por incapacidade temporária</p>
+~<p>Aposentadoria especial e Salário-maternidade</p>
+}
+
+::Questão 08::[html]<p>Aposentadoria por incapacidade permanente será de 100% do salário-de-benefício, quando decorrer de acidente de trabalho, de doença profissional e de doença do trabalho. Enquanto o auxílio-acidente será de 50% do salário-de-benefício e o auxílio-doença de 91% do salário-de-benefício.
+<br>Fonte: ALENCAR, Hermes Arrais. Manual de Direito Previdenciário. São Paulo: SaraivaJur, 2024.
+<br><br>A Lei n. 8.213 dispensa o aposentado por invalidez da submissão ao exame médico periódico de constatação de permanência da incapacidade quando verificada:
+</p>{
+=<p>O segurado ter no mínimo 55 anos de idade e já ter usufruído benefício por incapacidade por pelo menos 15 anos.</p>
+~<p>Após o segurado completar 70 anos de idade, independente de quanto tempo está aposentado por invalidez.</p>
+~<p>O segurado ter no mínimo 60 anos de idade e já ter usufruído benefício por incapacidade por pelo menos 10 anos.</p>
+~<p>O segurado já ter usufruído o benefício por incapacidade por pelo menos 15 anos independente da sua idade.</p>
+~<p>Após o segurado completar 50 anos de idade e já ter usufruído do benefício por incapacidade por pelo menos 5 anos.</p>
+}
+
+::Questão 09::[html]<p>A pessoa que demitida do emprego deixa de contribuir com a Previdência ainda possui sua qualidade de segurado mantida por certo lapso temporal. Porém quando ultrapassado o prazo do período de graça previsto no art. 15 da Lei 8213, de 1991 (Lei de Benefícios) enseja a perda da qualidade de segurado.
+<br>Fonte: ALENCAR, Hermes Arrais. Manual de Direito Previdenciário. São Paulo: SaraivaJur, 2024.
+<br><br>A partir das informações apresentadas, analise as afirmativas a seguir:
+<br>I. O segurado somente terá reconhecida como tempo de contribuição ao RGPS a competência cuja contribuição seja igual ou superior à contribuição mínima mensal exigida para sua categoria, assegurado o agrupamento de contribuições.  
+<br>II. João foi segurado obrigatório até o ano de maio de 2023, quando deixou de exercer atividade remunerada, mesmo sem contribuir, João permanecerá atrelado à Previdência pelos próximos 12 meses (período de graça).
+<br>III. De acordo  com art. 24 da Lei 8213 de 1991, somente um dia de trabalho no mês já vale como contribuição (carência) para aquele mês, para qualquer categoria de segurado obrigatório.
+<br>IV. Para requerer a aposentadoria por incapacidade permanente o segurado deve, como regra, comprovar a sua qualidade de segurado e já ter cumprido o requisito da carência de 12 contribuições.
+<br><br>Considerando o contexto apresentado, é correto o que se afirma em:
+</p>{
+=<p>I, II, III e IV</p>
+~<p>I e III, apenas</p>
+~<p>II e IV, apenas</p>
+~<p>I, II e III, apenas</p>
+~<p>I, II e IV, apenas</p>
+}
+
+
+::Questão 10::[html]<p>Segundo o disposto no art. 19 da Lei n. 8.213, de 1991, acidente do trabalho é o que ocorre pelo exercício do trabalho a serviço da empresa ou de empregador doméstico, em se tratando de segurado empregado, empregado doméstico, avulso e segurado especial, provocando lesão corporal ou perturbação funcional que cause a morte ou a perda ou redução, permanente ou temporária, da capacidade para o trabalho.
+<br>Fonte: ALENCAR, Hermes Arrais. Manual de Direito Previdenciário. São Paulo: SaraivaJur, 2024.
+<br><br>A partir das informações apresentadas, analise as afirmativas a seguir:
+<br>I -  o segurado que sofreu acidente do trabalho tem garantido, pelo prazo mínimo de doze meses, o seu contrato de trabalho junto à empresa, após a cessação do auxílio-doença acidentário, independentemente de percepção de auxílio-acidente.
+<br>II - O Nexo Técnico Epidemiológico (NTEP) é decorrente da relevância estatística verificada entre a Classificação Nacional de Atividade Econômica da Empresa (CNAE) e a entidade mórbida motivadora da incapacidade elencada na Classificação Internacional de Doenças (CID).
+<br>III - Por doença profissional (doenças típicas da profissão), entende-se a produzida ou desencadeada pelo exercício do trabalho peculiar a determinada atividade.
+<br>IV - Doença do trabalho (doenças atípicas), por sua vez é aquela adquirida ou desencadeada em função de condições especiais em que o trabalho é desempenhado e com ele se relacione diretamente
+<br>V - No art. 21, IV, da Lei n. 8.213, de 1991, efetua a norma a extensão da proteção acidentária, para o fim de alcançar acidente que tenha ocorrido fora do local e horário de trabalho aquele que ocorra no percurso da residência para o local de trabalho ou deste para aquela, qualquer que seja o meio de locomoção, inclusive veículo de propriedade do segurado.
+<br><br>Considerando o contexto apresentado, é correto o que se afirma em:
+</p>{
+=<p>I, II, III, IV e V</p>
+~<p>I e III, apenas</p>
+~<p>II e IV, apenas</p>
+~<p>I, II e III, apenas</p>
+~<p>I, II e IV, apenas</p>
+}
